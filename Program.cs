@@ -24,3 +24,5 @@ foreach(var val in c)
 {
     Console.WriteLine($"Valor {val}");
 }
+
+// Actualizando
